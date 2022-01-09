@@ -10,3 +10,11 @@ caneta
 apontador
 
 lapiseira
+
+Lista de livros:
+
+Fundamentos da Matematica Elementar
+
+Fundamentos de Fisica
+
+Quimica Ricardo Feltre
